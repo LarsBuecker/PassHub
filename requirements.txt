@@ -1,0 +1,12 @@
+- Password generation
+    - length
+    - symbols
+- Hash passwords
+- Database
+    - local, server
+    - associate with names, websites, accounts
+- Commandline excess
+- GUI-Interface
+- Webinterface
+- REST-API
+- System varible and exe file
