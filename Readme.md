@@ -3,7 +3,7 @@ PassHub is a Python based password manager.
 
 ## Installation
 Python 3.9 is recommended, PassHub officilly untest on other python versions. <br/>
-You can clone the repository to a local destination using git:
+You can clone the repository to a local destination using git: <br/>
 `git clone https://github.com/LarsBuecker/PassHub` <br/>
 Run `main.py` to run. System variable and .exe coming soon.
 
